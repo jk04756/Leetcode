@@ -12,6 +12,7 @@
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/jk04756/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [1527-patients-with-a-condition](https://github.com/jk04756/Leetcode/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/jk04756/Leetcode/tree/master/1667-fix-names-in-a-table) |
 <!---LeetCode Topics End-->
