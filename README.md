@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/jk04756/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/jk04756/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0704-binary-search](https://github.com/jk04756/Leetcode/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -21,4 +22,12 @@
 | [1517-find-users-with-valid-e-mails](https://github.com/jk04756/Leetcode/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/jk04756/Leetcode/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/jk04756/Leetcode/tree/master/1667-fix-names-in-a-table) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/jk04756/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/jk04756/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
