@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/jk04756/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/jk04756/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/jk04756/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0704-binary-search](https://github.com/jk04756/Leetcode/tree/master/0704-binary-search) |
@@ -30,4 +31,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/jk04756/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/jk04756/Leetcode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
