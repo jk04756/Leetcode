@@ -12,6 +12,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/jk04756/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jk04756/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/jk04756/Leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/jk04756/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/jk04756/Leetcode/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -74,4 +75,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jk04756/Leetcode/tree/master/0042-trapping-rain-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/jk04756/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
