@@ -6,6 +6,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/jk04756/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/jk04756/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/jk04756/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/jk04756/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jk04756/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/jk04756/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/jk04756/Leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/jk04756/Leetcode/tree/master/0042-trapping-rain-water) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -48,6 +50,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/jk04756/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/jk04756/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jk04756/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
@@ -63,4 +66,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jk04756/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/jk04756/Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/jk04756/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
