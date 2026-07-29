@@ -38,6 +38,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/jk04756/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/jk04756/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/jk04756/Leetcode/tree/master/0242-valid-anagram) |
 ## Union-Find
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jk04756/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/jk04756/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/jk04756/Leetcode/tree/master/0242-valid-anagram) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -89,4 +91,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jk04756/Leetcode/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/jk04756/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
