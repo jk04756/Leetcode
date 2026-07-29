@@ -78,6 +78,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/jk04756/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jk04756/Leetcode/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -94,5 +95,6 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/jk04756/Leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/jk04756/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
