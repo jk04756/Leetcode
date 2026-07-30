@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jk04756/Leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/jk04756/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/jk04756/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/jk04756/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/jk04756/Leetcode/tree/master/0042-trapping-rain-water) |
@@ -95,6 +96,11 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/jk04756/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/jk04756/Leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/jk04756/Leetcode/tree/master/0242-valid-anagram) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/jk04756/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
