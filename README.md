@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jk04756/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/jk04756/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/jk04756/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/jk04756/Leetcode/tree/master/0027-remove-element) |
@@ -37,6 +38,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jk04756/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jk04756/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/jk04756/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/jk04756/Leetcode/tree/master/0217-contains-duplicate) |
