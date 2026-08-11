@@ -15,6 +15,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/jk04756/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/jk04756/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jk04756/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/jk04756/Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jk04756/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/jk04756/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/jk04756/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -54,6 +55,7 @@
 | [0011-container-with-most-water](https://github.com/jk04756/Leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/jk04756/Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/jk04756/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0189-rotate-array](https://github.com/jk04756/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/jk04756/Leetcode/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
 |  |
@@ -113,4 +115,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jk04756/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/jk04756/Leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
