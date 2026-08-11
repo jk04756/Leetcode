@@ -9,12 +9,12 @@ class Solution {
         int water =0;
 
         while(left<right){
-            if(height[left] < height[right]){
+            if(height[left]<height[right]){
                 if(height[left]>=leftMax){
                     leftMax = height[left];
                 }
                 else{
-                    water = water+leftMax -height[left];
+                    water = water+ leftMax - height[left];
                 }
                 left++;
             }
@@ -23,11 +23,13 @@ class Solution {
                     rightMax = height[right];
                 }
                 else{
-                    water = water+ rightMax-height[right];
+                    water = water + rightMax- height[right];
                 }
                 right--;
             }
-        }
-        return water;
+           
+            
     }
+ return water;
+}
 }
